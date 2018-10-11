@@ -8,7 +8,7 @@ In Windows, go to the folder in which you would like to download this repository
 and type `cmd.exe`. This will open up the command line terminal, where you will enter the following commands:
 
 ```
-git clone https://github.com/Compec/java-2018-w1
+git clone https://github.com/Compec/java-2018-w1-assignment
 ```
 
 Launch `IntelliJ IDEA` and open the project by selecting the folder where you downloaded the project.

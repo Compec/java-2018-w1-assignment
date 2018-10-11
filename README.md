@@ -24,7 +24,7 @@ Download the ZIP file then extract it with your zip program (Winrar, 7zip ...)
 
 ## Assignment
 
-Write a Java program to print `Hello` on screen and then print *your* name on a separate line.
+Write a Java program to print `Hello` on screen and then print *your* name on a separate line. Write it in the `Main.java` inside `src` folder.
 
 #### Expected Output
 ```
